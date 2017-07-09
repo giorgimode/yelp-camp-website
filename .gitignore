@@ -1,0 +1,15 @@
+/target/
+/junk/
+/stderr.log
+/stdout.log
+/lib/
+log/
+
+# User-specific stuff:
+
+.idea/*
+
+lib/
+*.log
+*.dat
+*.iml
