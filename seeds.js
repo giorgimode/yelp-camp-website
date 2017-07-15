@@ -10,7 +10,7 @@ var data = [
     },
     {
         name: "Desert Mesa",
-        image: "https://farm4.staticflickr.com/3859/15123592300_6eecab209b.jpg",
+        image: "https://images.pexels.com/photos/132037/pexels-photo-132037.jpeg?w=630&h=375&auto=compress&cs=tinysrgb",
         description: "blah blah blah"
     },
     {
